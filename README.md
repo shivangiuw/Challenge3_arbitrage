@@ -25,8 +25,8 @@ This analysis leverages python 3.7 with the following packages:
 
 ## Installation Guide
 
-```conda install pandas`
- pip install jupyterlab`
+```conda install pandas
+ pip install jupyterlab
  python -m pip install -U matplotlib
  ```
 ---
