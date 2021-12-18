@@ -1,11 +1,12 @@
 # Time series data analysis for arbitrage opportunities using pandas
 
-##Arbitrage is the almost-simultaneous purchase and sale of an asset to profit from a difference in the asset's price between markets.
+## Arbitrage is the almost-simultaneous purchase and sale of an asset to profit from a difference in the asset's price between markets to capitalize on simultaneous price dislocations in those markets.
 
-*Finding arbitrage opportunities involves comparing the pricing data from two exchanges at the same time, in intervals that you define down to the minute, to find the dislocation.
-*In this analysis, we examine the time-series pricing data of Bitcoin from  two exchanges (Bitstamp and Coinbase) from the first three months of 2018 (January 2018 to March 2018) to determine if any arbitrage opportunities exist for Bitcoin.
+* Finding arbitrage opportunities involves comparing the pricing data from two exchanges at the same time, in intervals that you define down to the minute, to find the dislocation.
 
-*Analysis report is at the end of the file.
+* In this analysis, we examine the time-series pricing data of Bitcoin from  two exchanges (Bitstamp and Coinbase) from the first three months of 2018 (January 2018 to March 2018) to determine if any arbitrage opportunities exist for Bitcoin  to capitalize and evaluate how the spread between the two exchanges changed across the time period that the datasets define.
+
+* Analysis report is at the end of the file.
 
 ---
 
