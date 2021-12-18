@@ -6,7 +6,9 @@
 *In this analysis, we examine the time-series pricing data of Bitcoin from  two exchanges (Bitstamp and Coinbase) from the first three months of 2018 (January 2018 to March 2018) to determine if any arbitrage opportunities exist for Bitcoin.
 
 *Analysis report is at the end of the file.
+
 ---
+
 ## Technologies
 
 This analysis leverages python 3.7 with the following packages:
@@ -18,14 +20,17 @@ This analysis leverages python 3.7 with the following packages:
 * [path] (https://docs.python.org/3/library/os.path.html) - for CSV file paths to read 
 
 * [matlplotlib] (https://matplotlib.org/stable/users/installing/index.html)- for data visualization 
+
 ---
+
 ## Installation Guide
 
 ```conda install pandas`
-  pip install jupyterlab`
-  python -m pip install -U matplotlib
-```
+ pip install jupyterlab`
+ python -m pip install -U matplotlib
+ ```
 ---
+
 ## Usage 
 
 We perform the following phases of financial analysis:
@@ -38,6 +43,7 @@ We perform the following phases of financial analysis:
 (using .loc for slicing the data for different periods to analyze, .plot() and .describe() to visualize and get summary statistics for the data under consideration.
 
 ---
+
 ## Analysis Report
 
 During analysis we try to understand the trend in the exchanges to determine whether arbitrage opportunities still exist in the Bitcoin market, for which we follow the below steps:
